@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: allocado_icon_light.svg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Any type of resources
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Define any type of resources you wish to share. Resources can be group by arbitrary labels.
